@@ -97,8 +97,7 @@ The model can predict whether a given image is a **Cat 🐱** or a **Dog 🐶** 
 ## 📬 Contact
 
 **Anand Kumar Dishant**
-LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-
+LinkedIn: https://www.linkedin.com/in/anand-kumar-dishant-b1366727b/
 ---
 
 ⭐ If you found this project useful, feel free to give it a star!
